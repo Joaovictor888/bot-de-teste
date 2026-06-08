@@ -1,0 +1,9 @@
+# Bot de Pedidos
+
+Projeto simples usando IA para organizar pedidos de hamburgueria.
+
+Funções:
+- Separar hambúrgueres
+- Identificar bebidas
+- Detectar forma de pagamento
+- Organizar endereço
