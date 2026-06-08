@@ -7,3 +7,10 @@ Funções:
 - Identificar bebidas
 - Detectar forma de pagamento
 - Organizar endereço
+pedido = """
+2 X-Saladas
+1 Coca-Cola
+Pagamento Pix
+"""
+
+print(pedido)
